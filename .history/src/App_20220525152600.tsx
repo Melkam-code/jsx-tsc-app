@@ -1,11 +1,13 @@
 import React from 'react';
 import './App.css';
 
-const App: React.FC = () => {
+function App() {
+
+  let name: string = "melkam";
   
   return (
     <div className="App">
-      <span className='heading'>Taskify</span>
+      <h2>{name}</h2>
     </div>
   );
 }
