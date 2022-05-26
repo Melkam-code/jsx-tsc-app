@@ -64,7 +64,7 @@
     flex: 1;
     padding: 5px;
     border: none;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 .single_text:focus {
@@ -93,4 +93,8 @@
     .single_todo {
         width: 40%;
     }
+}
+
+.single_todo_edit {
+    
 }
