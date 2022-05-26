@@ -57,40 +57,5 @@
     border-radius: 5px;
     padding: 20px;
     margin-top: 15px;
-    background-color: yellow;
-}
-
-.single_text {
-    flex: 1;
-    padding: 5px;
-    border: none;
-    font-size: 25px;
-}
-
-.single_text:focus {
-    outline: none;
-}
-
-.icon {
-    margin-left: 10px;
-    font-size: 25px;
-    cursor: pointer;
-}
-
-@media (max-width: 700px){
-    .input {
-        width: 95%;
-    }
-    .todos {
-        width: 95%;
-    }
-    .single_todo {
-        width: 100%;
-    }
-}
-
-@media (max-width: 1200px) {
-    .single_todo {
-        width: 40%;
-    }
+    background-image: url("https://www.freepik.com/free-vector/colorful-watercolor-rainbow-background_9458303.htm#query=colorful%20backgrounds&position=1&from_view=keyword");
 }

@@ -88,9 +88,3 @@
         width: 100%;
     }
 }
-
-@media (max-width: 1200px) {
-    .single_todo {
-        width: 40%;
-    }
-}
